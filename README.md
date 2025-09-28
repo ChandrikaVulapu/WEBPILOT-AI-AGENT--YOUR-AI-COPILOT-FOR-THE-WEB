@@ -1,10 +1,10 @@
 #  TITLE : WEBPILOT AI AGENT - YOUR AI COPILOT FOR THE WEB
 
-Problem Statement Chosen:
+**Problem Statement Chosen:**
 
 WebPilot AI Agent – an AI system that understands natural language commands, autonomously browses real websites, and takes the user directly to the exact product or page they want, eliminating the need for manual searching and clicking.
 
-SUMMARY
+**SUMMARY**
 
 Problem Understanding In today’s digital world, finding information or products online is not hard — but navigating through endless links, filters, and irrelevant results is. Current AI assistants only give static summaries or links, leaving the user to manually search, filter, and click through websites. This gap between “knowing” and “reaching” creates frustration, wasted time, and incomplete assistance. What people truly need is not just an AI that tells them what’s available, but one that actually takes them to it.
 
